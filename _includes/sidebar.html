@@ -4,20 +4,17 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
 
-  <div class="profile-picture">
-    <img src="{{ '/images/teagan_headshot.jpg' | prepend: base_path }}" alt="Teagan's Headshot">
-  </div>
-
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <img src=
+        <img src="{{ '/images/teagan_headshot.jpg' | prepend: base_path }}" alt="Teagan's Headshot">
+        <!-- <img src=
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
           "{{ s.image | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}"> -->
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
