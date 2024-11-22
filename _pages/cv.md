@@ -25,6 +25,7 @@ Research experience
 
 * **Research Assistant** - *Carleton College - Northfield, MN*
   * Determined that scagnostics, a set of graphical measures created in 2007, are up to 80% more effective at determining the fit of a model than classic statistics such as the variance and mean when used in conjunction with random forest, generalized additive, and support vector models.
+  * Won first place in the 2023 [USRESP undersgraduate statistics research competition](https://www.causeweb.org/usproc/usresp/2023/spring/winners).
   * Check out [our paper](https://pdf.ac/1tJQGp) for more details.
 
 * **Research Assistant** - *Carleton College - Northfield, MN*
