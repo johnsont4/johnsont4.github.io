@@ -39,10 +39,3 @@ Professional experience
 * **Software Engineer Intern** - *[National Center for Atmospheric Research](https://ncar.ucar.edu/) - Boulder, CO*
   * Developed a new search engine for NCAR using Spring Boot that enables scientists to efficiently find scientific resources produced by each of NCAR’s seven research labs.
   * Watch my [final presentation](https://www.youtube.com/watch?v=_KwneNkHljI).
-
-* **Teaching Assistant** - *Carleton College, Department of Mathematics & Statistics - Northfield, MN*
-  * Assisted up to ten students per day with data science, machine learning, and Bayesian statistics courses, primarily using R.
-  * Collaborated with statistics professors and faculty to create and execute effective lesson plans.
-
-* **Career Counselor** - *Carleton College Career Center - Northfield, MN*
-  * Coached up to ten students per day regarding cover letters, résumés, internships, jobs, and funding opportunities.
