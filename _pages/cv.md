@@ -17,6 +17,7 @@ Research experience
 ======
 * **Research Assistant** - *[UCLA RIPS REU](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023-los-angeles/) - Los Angeles, CA*
   * Worked with the [Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/) to replace high-fidelity models that simulate the flow of supersonic air over a wedge with a faster, comparably accurate multi-fidelity model.
+  * Presented our work at the 2024 [Join Mathematics Meetings](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html).
   * Check out [our paper](https://pdf.ac/2UqkOB) for more details.
 
 * **Research Assistant** - *Carleton College - Northfield, MN*
