@@ -21,7 +21,7 @@ Research experience
   * Check out [our paper](https://pdf.ac/2UqkOB) for more details.
 
 * **Research Assistant** - *Carleton College - Northfield, MN*
-  * Implemented (1) a loss function that prioritizes fairness using a counterfactual fairness metric and (2) a counterfactual data augmentation method that mitigates bias in toxicity classification.
+  * Implemented a loss function that prioritizes fairness using a counterfactual fairness metric and a counterfactual data augmentation method that mitigates bias in toxicity classification.
   * Check out [our paper](https://cs.carleton.edu/cs_comps/2223/replication/final-results-chenj3/resources.html) for more details.
 
 * **Research Assistant** - *Carleton College - Northfield, MN*
