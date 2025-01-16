@@ -36,7 +36,7 @@ Research experience
 Professional experience
 ======
 * **ML Engineer** - *[General Motors](https://www.gm.com/) - Austin, TX*
-  * Designing and implementing generative AI pipelines. Pipelines include a supply chain chat bot, a summarization model, and a risk identification pipeline.
+  * Designing and implementing scalable MLOps pipelines for generative AI and NLP applications, leveraging Kubernetes for container orchestration and Azure DevOps for CI/CD automation, enabling seamless deployment and monitoring of production-ready models.
   
 * **Software Engineer Intern** - *[National Center for Atmospheric Research](https://ncar.ucar.edu/) - Boulder, CO*
   * Developed a new search engine for NCAR using Spring Boot that enables scientists to efficiently find scientific resources produced by each of NCAR’s seven research labs.
