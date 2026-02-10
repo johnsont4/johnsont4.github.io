@@ -27,7 +27,7 @@ Prior Experience (Research & Professional)
 
 * **Teaching Assistant** - *Carleton College Statistics Department - 2022-2023*
 
-* **ML Engineer** - *[General Motors](https://www.gm.com/) - 2023-2025*
+* **Machine Learning Engineer** - *[General Motors](https://www.gm.com/) - 2023-2025*
   
 * **Software Engineer Intern** - *[National Center for Atmospheric Research](https://ncar.ucar.edu/) - 2022*
 
