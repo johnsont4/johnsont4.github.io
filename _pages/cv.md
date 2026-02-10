@@ -21,9 +21,9 @@ Prior Experience (Research & Professional)
 
 * **Teaching Assistant** - *CU Boulder Computer Science Department - 2025-Present*
 
-* **Research Assistant** - *[UCLA RIPS REU](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023-los-angeles/) - 2023*
-
 * **ML Engineer** - *[General Motors](https://www.gm.com/) - 2023-2025*
+
+* **Research Assistant** - *[UCLA RIPS REU](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023-los-angeles/) - 2023*
   
 * **Software Engineer Intern** - *[National Center for Atmospheric Research](https://ncar.ucar.edu/) - 2022*
 
