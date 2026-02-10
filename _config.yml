@@ -25,8 +25,8 @@ author:
   name             : "Teagan Johnson"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
-  location         : "Boulder, CO"
-  employer         : "CU Boulder"
+  location         : #"Boulder, CO"
+  employer         : #"CU Boulder"
   uri              : # URL
   email            : "teagrjohnson@gmail.com" 
 
