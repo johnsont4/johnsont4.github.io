@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science (focus on NLP), [University of Colorado, Boulder]([[https://www.carleton.edu/news/stories/carleton-moves-up-us-news-world-report-best-colleges-rankings/](https://www.carleton.edu/](https://www.colorado.edu/))), 2025-Present
+* Ph.D. in Computer Science, [University of Colorado, Boulder]([[https://www.carleton.edu/news/stories/carleton-moves-up-us-news-world-report-best-colleges-rankings/](https://www.carleton.edu/](https://www.colorado.edu/))), 2025-Present
 
 * B.A. in Computer Science & Statistics, [Carleton College]([https://www.carleton.edu/news/stories/carleton-moves-up-us-news-world-report-best-colleges-rankings/](https://www.carleton.edu/)), 2019-2023
 
