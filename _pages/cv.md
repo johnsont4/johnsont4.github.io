@@ -24,7 +24,11 @@ Prior Experience (Research & Professional)
 * **ML Engineer** - *[General Motors](https://www.gm.com/) - 2023-2025*
 
 * **Research Assistant** - *[UCLA RIPS REU](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023-los-angeles/) - 2023*
+
+* **Teaching Assistant** - *Carleton College Statistics Department - 2022-2023*
   
 * **Software Engineer Intern** - *[National Center for Atmospheric Research](https://ncar.ucar.edu/) - 2022*
 
 * **Research Assistant** - *Various research experiences at [Carleton College]([https://www.carleton.edu/news/stories/carleton-moves-up-us-news-world-report-best-colleges-rankings/](https://www.carleton.edu/)) - 2020-2023*
+
+* **Undergrad Career Counselor** - *Carleton College Career Center - 2020-2023*
