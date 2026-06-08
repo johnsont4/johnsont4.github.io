@@ -3,17 +3,27 @@
   <ul class="books-list">
     {% for book in site.data.books %}
     <li class="book-item">
-      <span class="book-title">
+      <div class="book-cover">
+        {% assign cover_file = book.cover | default: "book_default.jpg" %}
         {% if book.link and book.link != "" %}
-          <a href="{{ book.link }}"><em>{{ book.title }}</em></a>
+          <a href="{{ book.link }}"><img src="{{ site.baseurl }}/images/books/{{ cover_file }}" alt="{{ book.title }} cover"></a>
         {% else %}
-          <em>{{ book.title }}</em>
+          <img src="{{ site.baseurl }}/images/books/{{ cover_file }}" alt="{{ book.title }} cover">
         {% endif %}
-      </span>
-      <span class="book-author"> by {{ book.author }}</span>
-      {% if book.note and book.note != "" %}
-        <span class="book-note"> — {{ book.note }}</span>
-      {% endif %}
+      </div>
+      <div class="book-info">
+        <span class="book-title">
+          {% if book.link and book.link != "" %}
+            <a href="{{ book.link }}">{{ book.title }}</a>
+          {% else %}
+            {{ book.title }}
+          {% endif %}
+        </span>
+        <span class="book-author"> by {{ book.author }}</span>
+        {% if book.note and book.note != "" %}
+          <span class="book-note">{{ book.note }}</span>
+        {% endif %}
+      </div>
     </li>
     {% endfor %}
   </ul>

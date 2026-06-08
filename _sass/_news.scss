@@ -1,3 +1,42 @@
+.news-section {
+  margin-top: 2em;
+
+  h2 {
+    font-size: 1.4em;
+    margin-bottom: 0.5em;
+  }
+}
+
+.news-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: none;
+
+  tr {
+    border: none;
+  }
+
+  td {
+    border: none;
+  }
+
+  .news-date {
+    white-space: nowrap;
+    vertical-align: top;
+    padding: 0.35em 1.5em 0.35em 0;
+    min-width: 110px;
+    font-size: 0.9em;
+  }
+
+  .news-text {
+    vertical-align: top;
+    padding: 0.35em 0;
+    font-size: 0.9em;
+
+    p { margin: 0; }
+  }
+}
+
 .books-section {
   margin-top: 2em;
 
@@ -13,18 +52,36 @@
   margin: 0;
 
   .book-item {
-    padding: 0.4em 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 1em;
+    padding: 0.75em 0;
     border-bottom: 1px solid #e0e0e0;
-    font-size: 0.9em;
-    line-height: 1.5;
 
     &:last-child {
       border-bottom: none;
     }
   }
 
+  .book-cover {
+    flex-shrink: 0;
+    width: 60px;
+
+    img {
+      width: 60px;
+      display: block;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    }
+  }
+
+  .book-info {
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+
   .book-title {
     font-weight: 600;
+    font-style: italic;
   }
 
   .book-author {
@@ -32,36 +89,8 @@
   }
 
   .book-note {
+    display: block;
+    margin-top: 0.2em;
     color: #666;
-  }
-}
-
-.news-section {
-  margin-top: 2em;
-
-  h2 {
-    font-size: 1.4em;
-    margin-bottom: 0.5em;
-  }
-}
-
-.news-table {
-  width: 100%;
-  border-collapse: collapse;
-
-  .news-date {
-    white-space: nowrap;
-    vertical-align: top;
-    padding: 0.4em 1.5em 0.4em 0;
-    min-width: 110px;
-    font-size: 0.9em;
-  }
-
-  .news-text {
-    vertical-align: top;
-    padding: 0.4em 0;
-    font-size: 0.9em;
-
-    p { margin: 0; }
   }
 }
