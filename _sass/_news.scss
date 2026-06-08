@@ -7,33 +7,21 @@
   }
 }
 
-.news-table {
-  width: 100%;
-  border-collapse: collapse;
-  border: none;
-
-  tr {
-    border: none;
-  }
-
-  td {
-    border: none;
-  }
+.news-row {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5em;
+  padding: 0.3em 0;
+  font-size: 0.9em;
 
   .news-date {
     white-space: nowrap;
-    vertical-align: top;
-    padding: 0.35em 1.5em 0.35em 0;
-    min-width: 110px;
-    font-size: 0.9em;
+    min-width: 100px;
+    flex-shrink: 0;
   }
 
   .news-text {
-    vertical-align: top;
-    padding: 0.35em 0;
-    font-size: 0.9em;
-
-    p { margin: 0; }
+    flex: 1;
   }
 }
 
@@ -65,10 +53,12 @@
 
   .book-cover {
     flex-shrink: 0;
-    width: 60px;
+    width: 45px;
 
     img {
-      width: 60px;
+      width: 45px !important;
+      max-width: 45px !important;
+      height: auto;
       display: block;
       box-shadow: 0 1px 4px rgba(0,0,0,0.2);
     }
