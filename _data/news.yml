@@ -1,0 +1,18 @@
+# News items displayed on the homepage.
+# Add new entries at the TOP (reverse-chronological order).
+# The "text" field supports Markdown: [link text](url), **bold**, etc.
+
+- date: "Jun 29, 2026"
+  text: "I'll be attending [ICSSI](https://icssi.org/) in Boulder June 29-July 1. See you there!"
+
+- date: "Apr 14, 2026"
+  text: "Our work on narrative analysis in pretraining data was accepted for a parallel talk at [IC2S2](https://ic2s2-2026.org/)! See you in Burlington in July!"
+
+- date: "Apr 13, 2026"
+  text: "I was accepted to SemEval 2026 for [Task 9](https://polar-semeval.github.io/) (detecting polarization on social media). See you all in San Diego at ACL in July!"
+
+- date: "Feb 23, 2026"
+  text: "I was awarded the **Beverly Sears Award** from CU Boulder for my work on analyzing narratives in pretraining data."
+
+- date: "Aug 21, 2025"
+  text: "Started my journey as a PhD student at CU Boulder!"

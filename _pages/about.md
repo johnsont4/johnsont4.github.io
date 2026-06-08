@@ -12,3 +12,7 @@ I am a PhD student at CU Boulder advised by [Maria Antoniak](https://maria-anton
 Prior to CU Boulder I worked as a ML engineer at General Motors in Austin, TX where I developed and scaled up generative AI solutions. During my undergraduate studies at Carleton College, I participated in research spanning NLP, computational fluid dynamics, and statistical graphics. 
 
 I'm always happy to chat, reach out at teagrjohnson (at) gmail (dot) com.
+{% include news.html %}
+
+{% include books.html %}
+

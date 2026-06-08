@@ -1,0 +1,26 @@
+# Recent books you've loved, displayed on the homepage.
+# Fields:
+#   title  — book title (required)
+#   author — author name (required)
+#   note   — short note about why you loved it (optional)
+#   link   — URL to Goodreads, Amazon, etc. (optional)
+
+- title: "Player Piano"
+  author: "Kurt Vonnegut"
+  note: "This is one of my favorite books of all time. It is eerily prescient about the future of automation and I truly love Kurt Vonnegut's writing style."
+  link: "https://en.wikipedia.org/wiki/Player_Piano_(novel)"
+
+- title: "Narrative as Virtual Reality"
+  author: "Marie-Laure Ryan"
+  note: "Published in 2003, this book contains insights that are becoming increasingly relevant today because of AI. Looking forward to reading the second version of this work that was published in 2015."
+  link: "https://archive.org/details/narrativeasvirtu0000ryan_c5g1"
+
+- title: "Endurance: Shackleton's Incredible Voyage"
+  author: "Alfred Lansing"
+  note: "This is an incredible display of human resilience and an amazing piece of storytelling. I couldn't put this book down."
+  link: "https://en.wikipedia.org/wiki/Endurance:_Shackleton%27s_Incredible_Voyage"
+
+- title: "Basic elements of narrative"
+  author: "David Herman"
+  note: "This book provides the narrative theory foundation for my current research. Not only is it a solid intro to the field, but I genuinely enjoyed reading it and feel that it is applicable to fields beyond just literature."
+  link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305920"
