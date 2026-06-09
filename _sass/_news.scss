@@ -1,3 +1,26 @@
+.cv-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9em;
+  margin-bottom: 1.2em;
+
+  .cv-logo {
+    flex-shrink: 0;
+    width: 45px;
+
+    img {
+      width: 45px !important;
+      max-width: 45px !important;
+      height: auto;
+      display: block;
+    }
+  }
+
+  .cv-body {
+    flex: 1;
+  }
+}
+
 .news-section {
   margin-top: 2em;
 
