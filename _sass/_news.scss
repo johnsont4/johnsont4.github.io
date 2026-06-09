@@ -1,16 +1,16 @@
 .cv-entry {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.9em;
   margin-bottom: 1.2em;
 
   .cv-logo {
     flex-shrink: 0;
-    width: 45px;
+    width: 35px;
 
     img {
-      width: 45px !important;
-      max-width: 45px !important;
+      width: 35px !important;
+      max-width: 35px !important;
       height: auto;
       display: block;
     }
