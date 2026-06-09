@@ -6,11 +6,11 @@
 #   link   — URL to Goodreads, Amazon, etc. (optional)
 #   cover  — filename of cover image placed in /images/books/ (optional, e.g. "player-piano.jpg")
 
-- title: "Player Piano"
-  author: "Kurt Vonnegut"
-  note: "This is one of my favorite books of all time. It is eerily prescient about the future of automation and I truly love Kurt Vonnegut's writing style."
-  link: "https://en.wikipedia.org/wiki/Player_Piano_(novel)"
-  cover: "player_piano.jpg"
+- title: "Basic elements of narrative"
+  author: "David Herman"
+  note: "This book provides the narrative theory foundation for my current research. Not only is it a solid intro to the field, but I genuinely enjoyed reading it and feel that it is applicable to fields beyond just literature."
+  link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305920"
+  cover: "basic_elements_narrative.jpg"
 
 - title: "Narrative as Virtual Reality"
   author: "Marie-Laure Ryan"
@@ -18,14 +18,20 @@
   link: "https://archive.org/details/narrativeasvirtu0000ryan_c5g1"
   cover: "narrative_as_vr.jpg"
 
+- title: "Player Piano"
+  author: "Kurt Vonnegut"
+  note: "This is one of my favorite books of all time. It is eerily prescient about the future of automation and I truly love Kurt Vonnegut's writing style."
+  link: "https://en.wikipedia.org/wiki/Player_Piano_(novel)"
+  cover: "player_piano.jpg"
+
+- title: "The Tea Girl of Hummingbird Lane"
+  author: "Lisa See"
+  note: "Picked up this book on a whim (mostly because I love tea) and ended up loving it. It's a very emotional that has given me a new appreciation for the history of tea, adoption, and the Akha people of China."
+  link: "https://www.goodreads.com/en/book/show/25150798-the-tea-girl-of-hummingbird-lane"
+  cover: "teagirl.jpg"
+
 - title: "Endurance: Shackleton's Incredible Voyage"
   author: "Alfred Lansing"
   note: "This is an incredible display of human resilience and an amazing piece of storytelling. I couldn't put this book down."
   link: "https://en.wikipedia.org/wiki/Endurance:_Shackleton%27s_Incredible_Voyage"
   cover: "endurance.jpg"
-
-- title: "Basic elements of narrative"
-  author: "David Herman"
-  note: "This book provides the narrative theory foundation for my current research. Not only is it a solid intro to the field, but I genuinely enjoyed reading it and feel that it is applicable to fields beyond just literature."
-  link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305920"
-  cover: "basic_elements_narrative.jpg"
