@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Teagan Johnson"
 title_separator          : "-"
 name                     : &name "Teagan Johnson"
-description              : &description "Welcome! This is my personal website."
+description              : &description "Teagan Johnson — PhD student at CU Boulder researching narratives and NLP."
 url                      : https://johnsont4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnsont4/johnsont4.github.io"
@@ -121,7 +121,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : u4LV3Nj0GlHL35yPrddtBaI0n-XmMEMXOKonVoBw_8A
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -138,9 +138,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Teagan Johnson
+  links:
+    - "https://www.linkedin.com/in/johnsont4"
+    - "https://github.com/johnsont4"
+    - "https://scholar.google.com/citations?user=NovbQVMAAAAJ&hl=en"
+    - "https://bsky.app/profile/teagrjohnson.bsky.social"
 
 
 # Analytics
