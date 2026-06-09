@@ -1,15 +1,16 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student at CU Boulder advised by [Maria Antoniak](https://maria-antoniak.github.io/). I'm interested in **cultural analytics**, with a focus on how narratives structure meaning in large-scale text data and how those structures are learned by large language models. My current work is at the intersection of computational narratology and LLM pretraining data curation, where I study how narrative qualities are distributed across web-scale corpora and how these narrative patterns shape model behavior. By developing methods to detect and analyze narrative structure in pretraining data, I aim to understand how language models internalize cultural signals and how data curation choices influence downstream generation and interpretation.
+I am a PhD student in the CU Boulder department of computer science advised by [Maria Antoniak](https://maria-antoniak.github.io/). I broadly work on problems within **cultural analytics** and **NLP**. Right now I am especially interested in <u>computational applications of narrative theory</u>. Recently, I've applied narrative theory to audit the pretraining data of LLMs, identify how Reddit users make sense of addiction, and probe BERT models for narrative understanding.
 
-I'm always happy to chat, reach out at teagrjohnson (at) gmail (dot) com.
+In my free time I love being active, watching movies, and reading (see my recent book list below). If you want to discuss research ideas, general career things, or just say hi, I'm always happy to chat. Reach out at teagrjohnson (at) gmail (dot) com.
+
 {% include news.html %}
 
 {% include books.html %}
