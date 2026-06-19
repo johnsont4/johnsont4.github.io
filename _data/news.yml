@@ -2,6 +2,9 @@
 # Add new entries at the TOP (reverse-chronological order).
 # The "text" field supports Markdown: [link text](url), **bold**, etc.
 
+- date: "Jun 19, 2026"
+  text: "New preprint out on arXiv! [Characterizing Narrative Content in Web-scale LLM Pretraining Data](https://arxiv.org/abs/2606.19468) with Elliott Ash, Andrew Piper, and Maria Antoniak."
+
 - date: "Jun 29, 2026"
   text: "I'll be attending [ICSSI](https://icssi.org/) in Boulder June 29-July 1. See you there!"
 
