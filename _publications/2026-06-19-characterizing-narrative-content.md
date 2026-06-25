@@ -3,7 +3,7 @@ title: "Characterizing Narrative Content in Web-scale LLM Pretraining Data"
 collection: publications
 category: preprints
 permalink: /publication/2026-06-19-characterizing-narrative-content
-excerpt: 'We analyze narrative content — agency and setting — in large-scale web text used to pretrain LLMs.'
+excerpt: 'We analyze narrative content in large-scale web text used to pretrain LLMs.'
 date: 2026-06-19
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2606.19468'
