@@ -68,6 +68,8 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
+  text-decoration-color: $link-underline-color;
+  text-decoration-thickness: 2px;
 }
 
 /* Apply focus state */
