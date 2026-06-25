@@ -16,9 +16,13 @@
 
   a {
     text-decoration: underline;
+    text-decoration-color: $link-underline-color;
+    text-decoration-thickness: 2px;
 
     &:hover {
       text-decoration: underline;
+      text-decoration-color: $link-underline-color;
+      text-decoration-thickness: 2px;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
