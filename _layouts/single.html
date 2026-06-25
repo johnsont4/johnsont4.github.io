@@ -59,6 +59,13 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% endif %}
 
+        {% if page.bibtex %}
+          <details style="margin-top: 0.5em;">
+            <summary style="cursor: pointer; font-size: smaller;">BibTeX Citation</summary>
+            <pre style="font-size: smaller; margin-top: 0.5em;"><code>{{ page.bibtex }}</code></pre>
+          </details>
+        {% endif %}
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
