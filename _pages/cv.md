@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a copy of my resume <a href="/files/johnson_teagan_cv.pdf">here</a>.
+
 Education
 ======
 <div class="cv-entry">
