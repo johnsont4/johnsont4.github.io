@@ -2,6 +2,9 @@
 # Add new entries at the TOP (reverse-chronological order).
 # The "text" field supports Markdown: [link text](url), **bold**, etc.
 
+- date: "Aug 21, 2026"
+  text: "Our paper on [narrative content in LLM pretraining data](https://arxiv.org/abs/2606.19468) was accepted to EMNLP findings 2026 in Budapest!"
+
 - date: "Jun 29, 2026"
   text: "I'll be attending [ICSSI](https://icssi.org/) in Boulder June 29-July 1. See you there!"
 
