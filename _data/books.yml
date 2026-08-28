@@ -6,17 +6,17 @@
 #   link   — URL to Goodreads, Amazon, etc. (optional)
 #   cover  — filename of cover image placed in /images/books/ (optional, e.g. "player-piano.jpg")
 
-- title: "Basic elements of narrative"
-  author: "David Herman"
-  note: "This book provides the narrative theory foundation for my current research. Not only is it a solid intro to the field, but I genuinely enjoyed reading it and feel that it is applicable to fields beyond just literature."
-  link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305920"
-  cover: "basic_elements_narrative.jpg"
+- title: "Cloud Cuckoo Land"
+  author: "Anthony Doer"
+  note: "This book is about how we humans reckon with the end of things. Throughout the book, stories play a central role in how we make sense of the world and our limited time on it. I think it's a nice representation of the importance of stories."
+  link: "https://www.goodreads.com/en/book/show/56783258-cloud-cuckoo-land"
+  cover: "cloud_cuckoo_land.jpg"
 
-- title: "Narrative as Virtual Reality"
-  author: "Marie-Laure Ryan"
-  note: "Published in 2003, this book contains insights that are becoming increasingly relevant today because of AI. Looking forward to reading the second version of this work that was published in 2015."
-  link: "https://archive.org/details/narrativeasvirtu0000ryan_c5g1"
-  cover: "narrative_as_vr.jpg"
+# - title: "Narrative as Virtual Reality"
+#   author: "Marie-Laure Ryan"
+#   note: "Published in 2003, this book contains insights that are becoming increasingly relevant today because of AI. Looking forward to reading the second version of this work that was published in 2015."
+#   link: "https://archive.org/details/narrativeasvirtu0000ryan_c5g1"
+#   cover: "narrative_as_vr.jpg"
 
 - title: "Player Piano"
   author: "Kurt Vonnegut"
@@ -35,3 +35,9 @@
   note: "This is an incredible display of human resilience and an amazing piece of storytelling. I couldn't put this book down."
   link: "https://en.wikipedia.org/wiki/Endurance:_Shackleton%27s_Incredible_Voyage"
   cover: "endurance.jpg"
+
+- title: "Basic elements of narrative"
+  author: "David Herman"
+  note: "This book provides the narrative theory foundation for my current research. Not only is it a solid intro to the field, but I genuinely enjoyed reading it and feel that it is applicable to fields beyond just literature."
+  link: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305920"
+  cover: "basic_elements_narrative.jpg"
