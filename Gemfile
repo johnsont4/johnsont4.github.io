@@ -9,3 +9,9 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+# Former stdlib gems that Jekyll 3.9 needs on Ruby 3.4+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'logger'
