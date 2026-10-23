@@ -45,6 +45,14 @@
 
   .news-text {
     flex: 1;
+
+    .news-wordmark {
+      display: inline;
+      height: 1.3em;
+      width: auto;
+      vertical-align: -0.3em;
+      margin: 0 0.1em;
+    }
   }
 }
 
