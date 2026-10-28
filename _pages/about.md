@@ -13,5 +13,7 @@ In my free time I love being active (e.g. hiking, pickup sports, skiing), drinki
 
 {% include news.html %}
 
+{% include tea.html %}
+
 {% include books.html %}
 

@@ -30,6 +30,20 @@
   }
 }
 
+.news-scroll {
+  max-height: 13em;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 0.5em;
+  -webkit-mask-image: linear-gradient(to bottom, #000 80%, transparent);
+  mask-image: linear-gradient(to bottom, #000 80%, transparent);
+
+  &.at-end {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+}
+
 .news-row {
   display: flex;
   align-items: baseline;
@@ -56,6 +70,61 @@
       border-radius: 0;
       box-shadow: none;
     }
+  }
+}
+
+.tea-section {
+  margin-top: 2em;
+
+  h2 {
+    font-size: 1.4em;
+    margin-bottom: 0.5em;
+  }
+}
+
+.tea-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  padding: 0.75em 0;
+
+  .tea-image {
+    flex-shrink: 0;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+
+    i {
+      font-size: 2em;
+      color: #8b5a3c;
+    }
+
+    img {
+      width: 45px !important;
+      max-width: 45px !important;
+      height: auto;
+      display: block;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    }
+  }
+
+  .tea-info {
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+
+  .tea-name {
+    font-weight: 600;
+  }
+
+  .tea-type {
+    color: #555;
+  }
+
+  .tea-note {
+    display: block;
+    margin-top: 0.2em;
+    color: #666;
   }
 }
 
